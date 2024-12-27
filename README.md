@@ -11,4 +11,4 @@ The E-Commerce Sales Analysis project aims to analyze sales data from an online 
 5. **Analyzing Profits**: Profit by category and sub-category.Profit by customer segment and sals o profit ratio.
 
 ## Buisness Solution
-![Sales by subcategory](https://drive.google.com/file/d/1SJaifCfeuHF1FCTNtJuV4Dip4tQu36PC/view?usp=sharing)
+![Sales by subcategory](https://drive.google.com/file/d/1LZWYpf_PCgZfEKO1cnN4HGzovNNeUptT/view?usp=drive_link)
