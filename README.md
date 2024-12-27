@@ -11,4 +11,10 @@ The E-Commerce Sales Analysis project aims to analyze sales data from an online 
 5. **Analyzing Profits**: Profit by category and sub-category.Profit by customer segment and sals o profit ratio.
 
 ## Buisness Solution
-![Sales by subcategory](https://drive.google.com/file/d/1LZWYpf_PCgZfEKO1cnN4HGzovNNeUptT/view?usp=drive_link)
+1.**Montly sales**
+![Montly Sales](https://drive.google.com/file/d/1LZWYpf_PCgZfEKO1cnN4HGzovNNeUptT/view?usp=drive_link)
+The Highest sales were seen in the month of November with total sales of 352K.
+The Lowest sales  were seen in the month of Febraury with total sales of 94K.
+
+
+![Sales by Category]https://github.com/shreyan54/E-Commerece-Sales-Analysis/blob/5bb6f7c57159560295b5c5be14864e2c7eaa5541/Sales%20by%20category.png
