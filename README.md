@@ -17,6 +17,12 @@ The E-Commerce Sales Analysis project aims to analyze sales data from an online 
 The Highest sales were seen in the month of November with total sales of 352K.
 The Lowest sales  were seen in the month of Febraury with total sales of 94K.
 
-2.**Sales by Category*
+2.**Sales by Category**
 ![Sales by Category](https://github.com/shreyan54/E-Commerece-Sales-Analysis/blob/5bb6f7c57159560295b5c5be14864e2c7eaa5541/Sales%20by%20category.png)
 The highest sales are seen in Technology about 36% and comparatively lower sales are seen in office supplies about 31%
+
+3**Sales by Sub Category**
+
+The highest selling products are Phones with total sales of 330K and lowest selling products are fasteners with 3k sales.
+
+
