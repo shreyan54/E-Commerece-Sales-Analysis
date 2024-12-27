@@ -10,3 +10,5 @@ The E-Commerce Sales Analysis project aims to analyze sales data from an online 
 4. **Sales based on Product Category**: Determine which category has lowest sales and highest sales.Also with subcategories.
 5. **Analyzing Profits**: Profit by category and sub-category.Profit by customer segment and sals o profit ratio.
 
+## Buisness Solution
+![Sales by subcategory](https://drive.google.com/file/d/1SJaifCfeuHF1FCTNtJuV4Dip4tQu36PC/view?usp=sharing)
