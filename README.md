@@ -12,9 +12,11 @@ The E-Commerce Sales Analysis project aims to analyze sales data from an online 
 
 ## Buisness Solution
 1.**Montly sales**
-![Montly Sales](https://drive.google.com/file/d/1LZWYpf_PCgZfEKO1cnN4HGzovNNeUptT/view?usp=drive_link)
+
+![Montly Sales](https://github.com/shreyan54/E-Commerece-Sales-Analysis/blob/109eea81e45d8660447f220d776c45ba6c28030c/Monthly%20Sales.png)
 The Highest sales were seen in the month of November with total sales of 352K.
 The Lowest sales  were seen in the month of Febraury with total sales of 94K.
 
-
-![Sales by Category]https://github.com/shreyan54/E-Commerece-Sales-Analysis/blob/5bb6f7c57159560295b5c5be14864e2c7eaa5541/Sales%20by%20category.png
+2.**Sales by Category*
+![Sales by Category](https://github.com/shreyan54/E-Commerece-Sales-Analysis/blob/5bb6f7c57159560295b5c5be14864e2c7eaa5541/Sales%20by%20category.png)
+The highest sales are seen in Technology about 36% and comparatively lower sales are seen in office supplies about 31%
